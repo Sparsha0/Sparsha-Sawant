@@ -7,7 +7,14 @@
 
 - 📫 Reach me at: **sawantsparsha@gmail.com**
 
-- ⚡ Fun fact: I'm a chess enthusiast who believes emotional healing and learning can go hand-in-hand!
+- I see design as storytelling—every pixel has a purpose, and every layout tells a story
+- <h3 align="left">🎨 Check my work:</h3>
+<p align="left">
+  <a href="https://dribbble.com/Sparshaaa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dribbble.svg" alt="dribbble" height="30" width="40" />
+    <strong>Dribbble Portfolio</strong>
+  </a>
+</p>
 
 
 
